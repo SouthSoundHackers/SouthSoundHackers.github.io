@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>South Sound Hackerspace</title>
-    <link>https://SouthSoundHackers.github.io/</link>
-    <description>Recent content on South Sound Hackerspace</description>
+    <title>hackerspace on South Sound Hackerspace</title>
+    <link>https://SouthSoundHackers.github.io/tags/hackerspace/</link>
+    <description>Recent content in hackerspace on South Sound Hackerspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Dec 2022 15:46:13 -0800</lastBuildDate><atom:link href="https://SouthSoundHackers.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 15:46:13 -0800</lastBuildDate><atom:link href="https://SouthSoundHackers.github.io/tags/hackerspace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
       <link>https://SouthSoundHackers.github.io/posts/welcome/</link>
@@ -15,18 +15,6 @@
       <guid>https://SouthSoundHackers.github.io/posts/welcome/</guid>
       <description>Welcome to the temporary online home of South Sound Hackerspace. If you&amp;rsquo;re interested in helping to plan the space, reach out via discord here.</description>
       <content>&lt;p&gt;Welcome to the temporary online home of South Sound Hackerspace. If you&amp;rsquo;re interested in helping to plan the space, reach out via discord &lt;a href=&#34;https://dc253.org/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://SouthSoundHackers.github.io/about/</link>
-      <pubDate>Wed, 14 Dec 2022 15:34:40 -0800</pubDate>
-      
-      <guid>https://SouthSoundHackers.github.io/about/</guid>
-      <description>South Sound Hackerspace Coming soon Check back soon to see what we&amp;rsquo;re up to!</description>
-      <content>&lt;h2 id=&#34;south-sound-hackerspace-coming-soon&#34;&gt;South Sound Hackerspace Coming soon&lt;/h2&gt;
-&lt;p&gt;Check back soon to see what we&amp;rsquo;re up to!&lt;/p&gt;
 </content>
     </item>
     
