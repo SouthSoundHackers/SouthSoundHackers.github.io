@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>South Sound Hackerspace</title>
+    <link>https://SouthSoundHackerspace.github.io/</link>
+    <description>Recent content on South Sound Hackerspace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://SouthSoundHackerspace.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://SouthSoundHackerspace.github.io/about/</link>
+      <pubDate>Wed, 14 Dec 2022 15:34:40 -0800</pubDate>
+      
+      <guid>https://SouthSoundHackerspace.github.io/about/</guid>
+      <description>South Sound Hackerspace Coming soon Check back soon to see what we&amp;rsquo;re up to!</description>
+      <content>&lt;h2 id=&#34;south-sound-hackerspace-coming-soon&#34;&gt;South Sound Hackerspace Coming soon&lt;/h2&gt;
+&lt;p&gt;Check back soon to see what we&amp;rsquo;re up to!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
