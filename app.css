@@ -81,8 +81,9 @@ nav {
     color:#65e217;
     padding: 0.25em 0.5em;
     box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
-
-
+}
+.greenOnHover li a:hover {
+  color: #65e217;
 }
   h1{
 font-size: 30px;
@@ -100,6 +101,7 @@ font-weight: 500;
     border-style: solid;
     border-color: black;
     border-left-color: #65e217;
+    max-width: 65%;
     padding-left: 30px;
     padding-right: 20%;
   }
