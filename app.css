@@ -67,12 +67,23 @@ nav {
     margin: 20px;
     margin-top:40px;
   }
-  /* .events{
+   /* .events{
     border-style: solid;
     border-color:black;
     border-left-color: #65e217;
     padding-left: 30px;
-} */
+}  */
+
+.donate-button{
+   text-align: center;
+    border:1px solid;
+    width: 200px;
+    color:#65e217;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+
+
+}
   h1{
 font-size: 30px;
 font-family: 'Fira Code', monospace;
